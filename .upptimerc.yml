@@ -12,7 +12,7 @@ status-website:
   logoUrl: https://xcraimax.de/img/profile.png
   favicon: https://xcraimax.de/img/favicon.png
   robotsText: "User-agent: * \n Disallow: /"
-  name: xCraimax.de
+  name: xCraimax.de | Status
   introTitle: "Status Monitor"
   introMessage: Hier finden Sie alle Statusmeldungen.
   theme: dark
