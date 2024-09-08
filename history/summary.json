@@ -1,7 +1,7 @@
 [
   {
     "name": "Homepage",
-    "url": "https://xcraimax.de",
+    "url": "https://xcraimax.de/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/xcraimax.de.ico",
     "slug": "homepage",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "time": 360,
+    "timeDay": 360,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   }
 ]
