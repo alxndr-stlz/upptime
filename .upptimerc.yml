@@ -10,7 +10,7 @@ sites:
 status-website:
   cname: status.xcraimax.de
   logoUrl: https://xcraimax.de/img/profile.png
-  favicon: https://xcraimax.de/img/profile.png
+  favicon: https://xcraimax.de/img/favicon.png
   robotsText: "User-agent: * \n Disallow: /"
   name: xCraimax.de
   introTitle: "Status Monitor"
