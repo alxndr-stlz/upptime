@@ -6,10 +6,14 @@ user-agent: xCraimax
 sites:
   - name: Homepage
     url: https://xcraimax.de/robots.txt
+  - name: Urbania Nova | Minecraft
+    check: "tcp-ping"
+    url: 212.11.64.102
+    port: 20214
 
 status-website:
   cname: status.xcraimax.de
-  logoUrl: https://xcraimax.de/img/profile.png
+  logoUrl: https://xcraimax.de/img/favicon.png
   favicon: https://xcraimax.de/img/favicon.png
   robotsText: "User-agent: * \n Disallow: /"
   name: xCraimax.de | Status
