@@ -6,7 +6,7 @@ user-agent: xCraimax
 sites:
   - name: Homepage
     url: https://xcraimax.de/robots.txt
-  - name: Urbania Nova | Minecraft
+  - name: Urbania Nova - Minecraft
     check: "tcp-ping"
     url: 212.11.64.102
     port: 20214
@@ -95,7 +95,7 @@ i18n:
   duration7D: 7d
   duration30D: 30d
   duration1Y: 1y
-  durationAll: allzeit
+  durationAll: Allzeit
   locale: de-DE
 
 # Upptime also supports notifications, assigning issues, and more
