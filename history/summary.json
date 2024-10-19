@@ -4,18 +4,20 @@
     "url": "https://xcraimax.de/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/xcraimax.de.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 349,
-    "timeWeek": 278,
-    "timeMonth": 259,
+    "timeDay": 348,
+    "timeWeek": 279,
+    "timeMonth": 260,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "Urbania Nova - Minecraft",
