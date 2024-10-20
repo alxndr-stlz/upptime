@@ -5,39 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xcraimax.de.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.47%",
     "time": 374,
-    "timeDay": 355,
-    "timeWeek": 1001,
+    "timeDay": 344,
+    "timeWeek": 1002,
     "timeMonth": 425,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-10-20": 13,
       "2024-10-19": 326
-    }
-  },
-  {
-    "name": "Urbania Nova - Minecraft",
-    "url": "212.11.64.102",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "urbania-nova-minecraft",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 115,
-    "timeDay": 119,
-    "timeWeek": 117,
-    "timeMonth": 115,
-    "timeYear": 115,
-    "dailyMinutesDown": {
-      "2024-09-08": 34
     }
   }
 ]
