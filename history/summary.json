@@ -4,7 +4,7 @@
     "url": "https://xcraimax.de/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/xcraimax.de.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 411,
     "timeYear": 384,
     "dailyMinutesDown": {
+      "2024-12-04": 0,
       "2024-11-30": 23,
       "2024-11-11": 81,
       "2024-10-26": 7,
