@@ -5,7 +5,7 @@ user-agent: xCraimax
 
 sites:
   - name: Homepage
-    url: https://xcraimax.de/robots.txt
+    url: https://alxndr-stlz.de/robots.txt
 
 status-website:
   cname: status.xcraimax.de
