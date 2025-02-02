@@ -8,19 +8,19 @@ sites:
     url: https://alxndr-stlz.de/robots.txt
 
 status-website:
-  cname: status.xcraimax.de
-  logoUrl: https://xcraimax.de/img/favicon.png
-  favicon: https://xcraimax.de/img/favicon.png
+  cname: status.alxndr-stlz.de
+  logoUrl: https://alxndr-stlz.de/img/favicon.png
+  favicon: https://alxndr-stlz.de/img/favicon.png
   robotsText: "User-agent: * \n Disallow: /"
-  name: xCraimax.de | Status
+  name: Alexander Stolz | Status
   introTitle: "Status Monitor"
   introMessage: Hier finden Sie alle Statusmeldungen.
   theme: night
   navbar:
     - title: Startseite
-      href: https://xcraimax.de/
+      href: https://alxndr-stlz.de/
     - title: Kontakt
-      href: mailto:admin@xcraimax.de
+      href: mailto:admin@alxndr-stlz.de
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -60,7 +60,7 @@ i18n:
   ms: ms
   loading: Lade
   navGitHub: GitHub
-  footer: xCraimax.de | Status
+  footer: 2025 Alexander Stolz | Status
   rateLimitExceededTitle: Ratenlimit überschritten
   rateLimitExceededIntro: Sie haben die Anzahl der Anfragen überschritten, die Sie in einer Stunde stellen können. Sie müssen also warten, bevor Sie wieder auf diese Website zugreifen können. Alternativ können Sie ein persönliches GitHub-Zugriffstoken hinzufügen, um diese Website weiterhin nutzen zu können.
   rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
