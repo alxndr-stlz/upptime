@@ -1,8 +1,8 @@
 [
   {
     "name": "Homepage",
-    "url": "https://xcraimax.de/robots.txt",
-    "icon": "https://icons.duckduckgo.com/ip3/xcraimax.de.ico",
+    "url": "https://alxndr-stlz.de/robots.txt",
+    "icon": "https://icons.duckduckgo.com/ip3/alxndr-stlz.de.ico",
     "slug": "homepage",
     "status": "up",
     "uptime": "99.58%",
@@ -11,7 +11,7 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.58%",
     "time": 389,
-    "timeDay": 403,
+    "timeDay": 406,
     "timeWeek": 387,
     "timeMonth": 413,
     "timeYear": 389,
