@@ -9,10 +9,10 @@ sites:
 
 status-website:
   cname: status.alxndr-stlz.de
-  logoUrl: https://alxndr-stlz.de/img/favicon.png
-  favicon: https://alxndr-stlz.de/img/favicon.png
+  logoUrl: https://alxndr-stlz.de/assets/img/favicon.png
+  favicon: https://alxndr-stlz.de/assets/img/favicon.png
   robotsText: "User-agent: * \n Disallow: /"
-  name: Alexander Stolz | Status
+  name: Alexander | Status
   introTitle: "Status Monitor"
   introMessage: Hier finden Sie alle Statusmeldungen.
   theme: night
